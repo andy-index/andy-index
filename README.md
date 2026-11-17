@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm a Software Engineering Student 👋
 
-<!--
-**andy-index/andy-index** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Western Governors University (WGU), focused on backend development, data structures and algorithms.
 
-Here are some ideas to get you started:
+I enjoy building projects that help me understand how software systems work, from implementing search algorithms to exploring distributed architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** Python
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Information Retrieval
+- **Tools:** Git, GitHub, VS Code, pytest
+- **Areas of Interest:** Backend Engineering, Distributed Systems, System Design
+
+## Featured Projects
+
+**Mini Search Engine**
+- Built a text search engine in Python using an inverted index, Boolean retrieval, and TF-IDF ranking.
+- Evaluated retrieval quality using 1,400 Cranfield documents and 225 queries.
+- Implemented automated tests and performance benchmarks.
+
+**Distributed Rate Limiter Service**
+- A backend engineering project that I will build to explore request throttling and distributed system design.
+
+## Currently
+
+- Strengthening my software engineering and backend development skills.
+- Practicing data structures and algorithms.
+- Seeking Software Engineering and Backend Engineering internship opportunities.
