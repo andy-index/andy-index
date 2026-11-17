@@ -14,7 +14,6 @@ I enjoy building projects that help me understand how software systems work, fro
 ## Featured Projects
 
 ### [Mini Search Engine](https://github.com/andy-index/mini-search-engine)
-**Mini Search Engine**
 - Built a text search engine in Python using an inverted index, Boolean retrieval, and TF-IDF ranking.
 - Evaluated retrieval quality using 1,400 Cranfield documents and 225 queries.
 - Implemented automated tests and performance benchmarks.
